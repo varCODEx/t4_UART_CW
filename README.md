@@ -9,8 +9,8 @@
 #№№ Що ми бачимо на осцилографі? Це сходи?)()  
 [тута](texts/uartformat.md)
 
-##№ Як налаштувати UART в програмі?
+##№ Як налаштувати UART в програмі?  
 [тута](texts/uartsettings.md) 
 
-##№ Як налаштувати проєкт в Proteus? **tbd
+##№ Як налаштувати проєкт в Proteus? **tbd  
 [тута](texts/proteuschanges.md)
