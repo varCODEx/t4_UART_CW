@@ -1,5 +1,5 @@
 ***Archived***
-This repo is a guide for my fellow Electronics Intro Project classmates (people kinda hated the course so I thought it'd be a good idea to explain how to understand the assignment basics in simple terms) - physically programming an UART module of a processor simulated in Proteus software.   
+This repo is a guide for my fellow Electronics Intro classmates (people kinda hated the course project so I thought it'd be a good idea to explain the assignment basics in simple terms) - physically programming an UART module of a processor simulated in Proteus software.   
 
 # t4_UART_CW
 
